@@ -47,7 +47,7 @@ setIsExpanded(isExpanded => !isExpanded);
     
     <Navbar bg="primary" variant="dark" expand="lg" className="fixed-top" expanded={isExpanded}>
       <Container>
-        <Navbar.Brand>Kairat Bayer</Navbar.Brand>
+        <Navbar.Brand>Woojin Kim</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggle} /> 
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
